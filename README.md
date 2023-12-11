@@ -7,6 +7,13 @@ A full implementation of the Snake game using C++.
 - Memory Safe
 - Follows Standards
 
+## Features
+
+- Normal Snake Gameplay
+- 'X' Food is bad. Increases length by 3, and score by 1.
+- '$' Food is good. Does not increase length, but does increase score by 10.
+- 'o' Normal food, increases both length and score by 1.
+
 ## Usage
 
 You can run the provided `Project.exe`.
