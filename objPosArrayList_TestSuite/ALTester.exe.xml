@@ -1,0 +1,13 @@
+<testsuites>
+	<testsuite name="AllTests" tests="9">
+		<testcase classname="AllTests" name="testConstructor"/>
+		<testcase classname="AllTests" name="testInsertHead_1Element"/>
+		<testcase classname="AllTests" name="testInsertHead_5Element"/>
+		<testcase classname="AllTests" name="testInsertTail_1Element"/>
+		<testcase classname="AllTests" name="testInsertTail_5Element"/>
+		<testcase classname="AllTests" name="testRemoveHead_1Element"/>
+		<testcase classname="AllTests" name="testRemoveHead_5Element"/>
+		<testcase classname="AllTests" name="testRemoveTail_1Element"/>
+		<testcase classname="AllTests" name="testRemoveTail_5Element"/>
+	</testsuite>
+</testsuites>
