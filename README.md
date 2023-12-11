@@ -1,6 +1,10 @@
 # Snake C++
 
-A full implementation of the Snake game using C++.
+<div align="center">
+    <img src="https://drive.google.com/uc?export=download&id=1c7Hx_bf5FCJ5GIVVmZxw7asXJ7AM1JRn" width="40%">
+</div>
+
+### A full implementation of the Snake game using C++.
 
 - Full Object Oriented Design
 - Array List with objects for body and food positions
